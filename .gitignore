@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Firefox database files / backups (never commit real bookmark data)
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.bak
+*.bak.*
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
